@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Ni-ran-jana
-- 👀 I’m interested in Machine Learning
+- 👀 I’m interested in Python
 - 😄 Pronouns: she/her
 
 <!---
